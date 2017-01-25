@@ -29,6 +29,7 @@ import java.io.InputStreamReader;
 public class MainActivity extends AppCompatActivity {
 
     EditText searchWord;
+
     TextView showResult;
     String wordName,wikiAPIUrl,checkWordBR,urlResult="";
     String  send="";
